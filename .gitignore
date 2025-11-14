@@ -1,11 +1,12 @@
-*.bin
-*.safetensors
-*.onnx
-*.xml
-*.pt
-*.ckpt
-*.h5
-openvino/
-onnx/
-pytorch_model.bin
-model.safetensors
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment/secret files
+*.env
