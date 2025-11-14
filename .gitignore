@@ -1,0 +1,11 @@
+*.bin
+*.safetensors
+*.onnx
+*.xml
+*.pt
+*.ckpt
+*.h5
+openvino/
+onnx/
+pytorch_model.bin
+model.safetensors
